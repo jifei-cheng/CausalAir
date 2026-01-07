@@ -14,4 +14,4 @@
 
 > 🚧 **Code Release Notice**
 >
-> The source code, datasets for **CausalAir** will be publicly released immediately upon the publication of our preprint. 
+> The source code and datasets for **CausalAir** are currently being organized and will be publicly released in mid-January 
