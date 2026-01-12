@@ -1,10 +1,9 @@
 
+
 <div align="center">
 
 # ✈️ CausalAir
-
 A Causal Chain-of-Thought Framework for Reliable Aviation Accident Cause Generation 
-
 </div>
 
 ---
@@ -16,7 +15,9 @@ A Causal Chain-of-Thought Framework for Reliable Aviation Accident Cause Generat
 
 ---
 
+For detailed performance metrics and model assessment, please refer to the instructions in the evaluation/ folder.
 ## 🚀 Quick Start
+---
 
 ### 1. Data Preparation
 
